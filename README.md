@@ -9,4 +9,10 @@ This task demonstrates how to use the HuskyLens AI camera module to detect faces
 # software
  #### Arduino
  
+# photo 
+![01BC72B5-B055-4E45-B469-6B58298D2972](https://github.com/user-attachments/assets/40922c2b-0cfc-4c92-bb11-08a548b59392)
+
+
+
+
   
